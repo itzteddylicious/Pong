@@ -10,15 +10,7 @@ The project is made using Lua programming language and Löve2D framework by Yash
 - Sound effects using BFXR.
 
 ## __Gameplay__
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/embed/guhqkJBLHIo"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
+[![GamePlay](https://img.youtube.com/vi/guhqkJBLHIo/0.jpg)](https://www.youtube.com/watch?v=guhqkJBLHIo)
 
 ## __Installation__
 First you need to download Löve2D. It is available for all the OSes-- Windows, macOS, Linux and also supports Android and iOS. <br>
